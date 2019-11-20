@@ -8,7 +8,8 @@ namespace _403Project1Group.Controllers
 {
     public class FaqController : Controller
     {
-        // GET: Faq
+        //Potentially use
+        // GET: Faq 
         public ActionResult FaqShow()
         {
           
